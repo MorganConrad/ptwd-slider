@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Title</title>
+
+  <script>
+    class Slider extends HTMLElement {
+
+      constructor() {
+        super();
+        this.aaa = "aaa";
+        // this.innerHTML = '<div class="bg-overlay"></div><div class="thumb"></div>';
+      }
+
+      connectedCallback() {
+        this.innerHTML = '<div class="bg-overlay">Hi Slider</div><div class="thumb"></div>';
+      }
+    }
+
+    if (!customElements.get('pt-slider')) {
+      customElements.define('pt-slider', Slider);
+    }
+  </script>
+
+</head>
+<body>
+  <pt-slider/>
+</body>
+</html>
