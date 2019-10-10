@@ -1,15 +1,16 @@
-# Introduction to Web Components
+# ptwd-slider
+Web Component demo for Port Townsend Web Developers group
 
 ## Basics
 
 
 ## Demos
 
-### [Do Nothing Slider](02_slider.md)
+### Do Nothing Slider [docs](/docs/02_slider.md) / [code](/src/04_slider.html)
 
-### [Static Configuration](03_slider.html)
+### Static Configuration [docs](/docs/03_slider.md) / [code](/src/03_slider.html)
 
-### [Dynamic Configuration](/src/04_slider.html)
+### Dynamic Configuration [docs](/docs/04_slider.md) / [code](/src/04_slider.html)
 
 ## Credits
  - Slider code inspired by [_Web Components in Action_, Ben Farrell, 2019.](https://www.manning.com/books/web-components-in-action)
