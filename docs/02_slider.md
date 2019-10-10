@@ -29,3 +29,5 @@ if (!customElements.get('element-name')) {
    - many use a leading namespace, e.g. paper-xxx
    - can't register twice, so icky code...
 
+## [Code here](https://github.com/MorganConrad/ptwd-slider/blob/master/src/02_slider.html)
+)

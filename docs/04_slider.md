@@ -20,5 +20,5 @@
    - avoid infinite loops
  - which is the "one source of truth"?
  
-
+## [Code here](https://github.com/MorganConrad/ptwd-slider/blob/master/src/04_slider.html)
 

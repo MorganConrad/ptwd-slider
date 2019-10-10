@@ -6,3 +6,5 @@
  
 ## Use Attributes in connectedCallback()
  - easy to set from HTML 
+ 
+## [Code here](https://github.com/MorganConrad/ptwd-slider/blob/master/src/03_slider.html)
