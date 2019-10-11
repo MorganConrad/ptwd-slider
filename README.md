@@ -14,3 +14,9 @@ Web Component demo for Port Townsend Web Developers group
 
 ## Credits
  - Slider code inspired by [_Web Components in Action_, Ben Farrell, 2019.](https://www.manning.com/books/web-components-in-action)
+
+## Other Resources
+ - [The Gold Standard Checklist for Web Components](https://github.com/webcomponents/gold-standard/wiki) 
+ - [Web Component Limitations](https://github.com/webcomponents/gold-standard/wiki/Web-Component-Limitations)
+ - [Google's Custom Element Best Practices](https://developers.google.com/web/fundamentals/web-components/best-practices)
+ 
