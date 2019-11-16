@@ -7,7 +7,7 @@
      - MyBaseWebComponent
        - MySpecificWebComponent
  - must **extend**
- - not sure if you can use non-class inheritance
+ - non-class inheritance possible
 
 ## Lifecycle Events
  - constructor()
@@ -22,11 +22,11 @@
  - adoptedCallback()  (seldom used)
 
 ## Register
-Registering twice is a bug, so you need this icky code.
+Registering twice throws a DOMException, so you need this icky code.
 ```js
-if (!customElements.get('element-name')) {
-      customElements.define('element-name', MyFoo);
-    }
+if (!customElements.get('element-name'))
+  customElements.define('element-name', MyFoo);
+
 ```
 
  - Element Name **must** contain a hyphen

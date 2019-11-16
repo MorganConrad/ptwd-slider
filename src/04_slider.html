@@ -34,7 +34,7 @@
           return;
 
         let colormin = this.getAttribute("colormin") || "#FF0000";
-        let colormax = this.getAttribute("colormax") || colorMin + "00";
+        let colormax = this.getAttribute("colormax") || colormin + "00";
         bgOverlay.style.background = `linear-gradient(to right, ${colormin}, ${colormax}`;
         bgOverlay.style.borderColor = colormin;
 

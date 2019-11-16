@@ -18,9 +18,10 @@
       }
     }
 
-    if (!customElements.get('pt-slider')) {
+    customElements.define('pt-slider', Slider);
+    if (!customElements.get('pt-slider'))  // required to avoid an exception
       customElements.define('pt-slider', Slider);
-    }
+
   </script>
 
 </head>

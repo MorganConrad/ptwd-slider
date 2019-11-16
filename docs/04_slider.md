@@ -27,7 +27,7 @@
   - check for existence of children before updating them
   - I like to create instance properties during connectedCallback(), YMMV
     - saves constant calls to `this.querySelector()` etc...
-  e.g. (see 05_slider.html)
+  e.g. (see 05_slider.html or utilities)
 ```js
 this.innerHTML = '<div class="bg-overlay"></div><div class="thumb"></div>';
 this._bgOverlay = this.querySelector('.bg-overlay');
