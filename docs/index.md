@@ -6,27 +6,27 @@ Web Component demo for Port Townsend Web Developers group
 
 ## Demos
 
-### Do Nothing Slider [docs](02_slider.html) / [code](https://github.com/MorganConrad/ptwd-slider/blob/master/src/02_slider.html)
+### Do Nothing Slider [docs](02_slider.md) / [code](https://github.com/MorganConrad/ptwd-slider/blob/master/src/02_slider.html)
 
-### Static Configuration [docs](03_slider.html) / [code](https://github.com/MorganConrad/ptwd-slider/blob/master/src/03_slider.html)
+### Static Configuration [docs](03_slider.md) / [code](https://github.com/MorganConrad/ptwd-slider/blob/master/src/03_slider.html)
 
-### Dynamic Configuration [docs](04_slider.html) / [code](https://github.com/MorganConrad/ptwd-slider/blob/master/src/04_slider.html)
+### Dynamic Configuration [docs](04_slider.md) / [code](https://github.com/MorganConrad/ptwd-slider/blob/master/src/04_slider.html)
 
-### Full Interactivity [docs](05_slider.html) / [code](https://github.com/MorganConrad/ptwd-slider/blob/master/src/05_slider.html)
+### Full Interactivity [docs](05_slider.md) / [code](https://github.com/MorganConrad/ptwd-slider/blob/master/src/05_slider.html)
 
 ## More Slides
 
-### [Organization](06_organization.html)
+### [Organization](06_organization.md)
 
-### [Utilities](07_utilities.html)
+### [Utilities](07_utilities.md)
 
-### [Advanced Topics](08_advanced.html)
+### [Advanced Topics](08_advanced.md)
 
-### [Testing](09_testing.html)
+### [Testing](09_testing.md)
 
-### [Events and Dataflow](10_events_dataflow.html)
+### [Events and Dataflow](10_events_dataflow.md)
 
-### [More Information](11_moreinfo.html)
+### [More Information](11_moreinfo.md)
 
 
 ## Credits
