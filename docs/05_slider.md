@@ -29,4 +29,5 @@ theWebComponent.addEventListener("your-event-name", (e) => {
 ```
 
 ## [Code here](https://github.com/MorganConrad/ptwd-slider/blob/master/src/05_slider.html)
+## [Demo here](htmlpreview.github.io/?https://github.com/MorganConrad/ptwd-slider/blob/master/src/05_slider.html)
 
