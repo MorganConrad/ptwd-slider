@@ -8,7 +8,7 @@ Putting everything into a single large HTML file isn't very maintainable, nor is
 <head>
   <script src="component_A.js"></script>
   <link href="component_A.css" rel=""stylesheet" type="text.css"/>
-  
+
   <script src="component_B.js"></script>
   <link href="component_B.css" rel=""stylesheet" type="text.css"/>
   ...
@@ -19,7 +19,7 @@ Putting everything into a single large HTML file isn't very maintainable, nor is
 
  - O.K. for developer.
  - What if component_A has a dependency on something else?
- 
+
 ## Bundled &lt;script&gt; and css tag
 
 Use Grunt, Gulp etc. to bundle all the .js and .css into two files
@@ -37,9 +37,9 @@ Modify connectedCallback() to include the CSS, _e.g._ (best in ES6!).  Now you o
 
 
 ```js
-this.innerHTML = 
+this.innerHTML =
   `<div class="bg-overlay"></div><div class="thumb"></div>
-  
+
   <style>
   pt-slider {
     display: inline-block;
@@ -56,7 +56,7 @@ this.innerHTML =
 </head>
 ```
 
-  
+
 ## Use ES6 _import_ instead of &lt;script&gt;
 
 #### some low level component, e.g. a single Foo
@@ -65,15 +65,15 @@ this.innerHTML =
 export default class Foo extends HTMLElement {
   someMethod() {}
   anotherMethod(args) {}
-  
-  connectedCallbacl() {
+
+  connectedCallback() {
     // include the CSS here
   }
 }
 
 if (!customElements.get('pt-foo'))
   customElements.define('pt-foo', Foo);
-```` 
+````
 
 #### higher level component, say a Collection of Foos
 
@@ -83,15 +83,15 @@ import Foo from '../foo.js';
 export default class Foos extends HTMLElement {
   someMethod() {}
   anotherMethod(args) {}
-  
+
   connectedCallback() {
     let html = '<pt-foos class="pt-foos"/>';
     for (let i=0; i<10; i++)
       html += '<pt-foo/>';
-    html += '<style> lof of CSS here </style>';
+    html += '<style> lot of CSS here </style>';
     html += '</pt-foos>';
     this.innerHTML = html;
-    
+
     // let's remember all those Foo we just created
     this._foos = this.querySelectorAll('pt-foo');
   }

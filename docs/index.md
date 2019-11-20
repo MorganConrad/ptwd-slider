@@ -12,12 +12,29 @@ Web Component demo for Port Townsend Web Developers group
 
 ### Dynamic Configuration [docs](04_slider.html) / [code](https://github.com/MorganConrad/ptwd-slider/blob/master/src/04_slider.html)
 
+### Full Interactivity [docs](05_slider.html) / [code](https://github.com/MorganConrad/ptwd-slider/blob/master/src/05_slider.html)
+
+## More Slides
+
+### [Organization](06_organization.html)
+
+### [Utilities](07_utilities.html)
+
+### [Advanced Topics](08_advanced.html)
+
+### [Testing](09_testing.html)
+
+### [Events and Dataflow](10_events_dataflow.html)
+
+### [More Information](11_moreinfo.html)
+
+
 ## Credits
  - Slider code inspired by [_Web Components in Action_, Ben Farrell, 2019.](https://www.manning.com/books/web-components-in-action)
 
 ## Other Resources
  - [WebComponents.org](https://www.webcomponents.org/)
- - [The Gold Standard Checklist for Web Components](https://github.com/webcomponents/gold-standard/wiki) 
+ - [The Gold Standard Checklist for Web Components](https://github.com/webcomponents/gold-standard/wiki)
  - [Web Component Limitations](https://github.com/webcomponents/gold-standard/wiki/Web-Component-Limitations)
  - [Google's Custom Element Best Practices](https://developers.google.com/web/fundamentals/web-components/best-practices)
  - [Component Kitchen](https://component.kitchen/elix)

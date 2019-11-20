@@ -12,8 +12,8 @@
 ```js
   let event = new CustomEvent(
     "your-event-name",
-    { bubbles: true,  // optional
-      detail: {       // your information must go here under "detail"
+    { bubbles: true, // optional
+      detail: {      // your data here under "detail"
         value: value
       }
     });

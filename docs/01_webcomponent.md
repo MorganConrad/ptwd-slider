@@ -7,7 +7,7 @@ Web components are a set of web platform APIs that allow you to create new custo
 Standards and APIs that let you stick new tags into HTML
 
 ```html
-<some-new-tag-Morgan-invented id="foo" onchange=...>Some text</some-new-tag-Morgan-invented
+<some-new-tag-Morgan-invented id="foo" onchange=...>Some text</some-new-tag-Morgan-invented>
 ```
 
 ## Usage
@@ -16,23 +16,26 @@ Standards and APIs that let you stick new tags into HTML
 <script type="module" src="node_modules/@polymer/paper-button/paper-button.js"></script>
 ...create in HTML
 <paper-button raised class="indigo">raised</paper-button>
-... or, can create in JS
+```
+or, create in JS
+```js
 let myButton = document.createElement('paper-button');
 ```
 
-## Advantages>
+## Advantages
 
  - Built on a Web Standard
- - Pick what other libraries you want (React, Svelte, etc...) [Compatability Page Here](https://custom-elements-everywhere.com/)
+ - Pick what other libraries you want (React, Svelte, etc...)
+   - [Compatability Page Here](https://custom-elements-everywhere.com/)
  - Better semantics (less &lt;DIV&gt;s)
- 
+
 ## Disadvantages
  - No built in data binding
    - Pick what other libraries you want (React, Vue, etc...)...
  - **requires** JavaScript turned on in browser (no "progressive enhancement")
  - commingling of properties and attributes (see later)
 
- 
+
 ## Issues
  - slow to gain traction???
  - How / where will it fit into the web ecosystem?
@@ -41,3 +44,5 @@ let myButton = document.createElement('paper-button');
 
 ## [Code here](https://github.com/MorganConrad/ptwd-slider/blob/master/src/01_unknown.html)
 
+## Credits
+ - Slider code inspired by [_Web Components in Action_, Ben Farrell, 2019.](https://www.manning.com/books/web-components-in-action)

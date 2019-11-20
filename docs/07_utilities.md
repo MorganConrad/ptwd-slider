@@ -13,7 +13,7 @@ How about a utility?
 
 ```js
 function mapDOM(map, scope) {
-  scope = scope || this;  // will usually need to pass it in
+  scope = scope || this;  // usually need to pass it in
   let result = {};
   for (let [key,value] of Object.entries(map))
     result[key] = scope.querySelector(value);
@@ -46,8 +46,12 @@ render(props) {
           ${this.css(props)}`;
 }
 
-html(props) { return `<h3> Some text ${props.someValue} </h3>`; }
-css(props)  { return ``; }
+html(props) {
+  return `<h3> Some text ${props.someValue} </h3>`;
+}
+css(props)  {
+  return ``;
+}
 ```
 
 #### Use the &lt;TEMPLATE&gt; or &lt;SLOT&gt; tag
@@ -56,6 +60,6 @@ css(props)  { return ``; }
 
 #### Use "real" templating
  - [lit-html](https://lit-html.polymer-project.org/)
- - Mustache, Pug, etc...
+ - Mustache, Pug, etc... ???
 
 

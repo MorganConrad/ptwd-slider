@@ -1,7 +1,7 @@
 # Dynamic Configuration
 
 ## Via Properties
- - TODO: define setters
+ - TODO: define setters (in your class)
  - good API to call from Javascript
  - can handle complex / "rich" data as values
 
@@ -16,7 +16,7 @@
 
 ## Both  (Google calls this "reflection"?)
  - easy access from both JS and HTML
- - need to synchronize
+ - need to synchronize, case sensitivity
    - avoid infinite loops!
  - decide which is the "one source of truth"?
  - _e.g._ set value(value) uses the attribute
