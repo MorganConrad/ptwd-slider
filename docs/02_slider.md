@@ -36,4 +36,4 @@ if (!customElements.get('element-name'))
  - MyFoo should extend HTMLElement
 
 ## [Code here](https://github.com/MorganConrad/ptwd-slider/blob/master/src/02_slider.html)
-## [Demo here](htmlpreview.github.io/?https://github.com/MorganConrad/ptwd-slider/blob/master/src/02_slider.html)
+## [Demo here](https://raw.githack.com/MorganConrad/ptwd-slider/master/src/02_slider.html)

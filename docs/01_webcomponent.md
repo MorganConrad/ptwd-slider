@@ -43,7 +43,7 @@ let myButton = document.createElement('paper-button');
 
 
 ## [Code here](https://github.com/MorganConrad/ptwd-slider/blob/master/src/01_unknown.html)
-## [Demo here](https://htmlpreview.github.io/?https://github.com/MorganConrad/ptwd-slider/blob/master/src/01_unknown.html)
+## [Demo here](https://raw.githack.com/MorganConrad/ptwd-slider/master/src/01_unknown.html)
 
 ## Credits
  - Slider code inspired by [_Web Components in Action_, Ben Farrell, 2019.](https://www.manning.com/books/web-components-in-action)

@@ -35,5 +35,5 @@ this._bgOverlay = this.querySelector('.bg-overlay');
 ```
 
 ## [Code here](https://github.com/MorganConrad/ptwd-slider/blob/master/src/04_slider.html)
-## [Demo here](https://htmlpreview.github.io/?https://github.com/MorganConrad/ptwd-slider/blob/master/src/04_slider.html)
+## [Demo here](https://raw.githack.com/MorganConrad/ptwd-slider/master/src/04_slider.html)
 

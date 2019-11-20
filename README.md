@@ -5,17 +5,17 @@ Web Component demo for Port Townsend Web Developers group
 
 ## Basics
 
-### Intro to Web Components [docs](/docs/01_webcomponent.md) / [code](/src/01_webcomponent.html) / [demo](https://htmlpreview.github.io/?https://github.com/MorganConrad/ptwd-slider/blob/master/src/01_unknown.html)
+### Intro to Web Components [docs](/docs/01_webcomponent.md) / [code](/src/01_webcomponent.html) / [demo](https://raw.githack.com/MorganConrad/ptwd-slider/master/src/01_unknown.html)
 
 ## Demos
 
-### Do Nothing Slider [docs](/docs/02_slider.md) / [code](/src/04_slider.html) / [demo](https://htmlpreview.github.io/?https://github.com/MorganConrad/ptwd-slider/blob/master/src/02_slider.html)
+### Do Nothing Slider [docs](/docs/02_slider.md) / [code](/src/04_slider.html) / [demo](https://raw.githack.com/MorganConrad/ptwd-slider/master/src/02_slider.html)
 
-### Static Configuration [docs](/docs/03_slider.md) / [code](/src/03_slider.html) / [demo](https://htmlpreview.github.io/?https://github.com/MorganConrad/ptwd-slider/blob/master/src/03_slider.html)
+### Static Configuration [docs](/docs/03_slider.md) / [code](/src/03_slider.html) / [demo](https://raw.githack.com/MorganConrad/ptwd-slider/master/src/03_slider.html)
 
-### Dynamic Configuration [docs](/docs/04_slider.md) / [code](/src/04_slider.html) / [demo](https://htmlpreview.github.io/?https://github.com/MorganConrad/ptwd-slider/blob/master/src/04_slider.html)
+### Dynamic Configuration [docs](/docs/04_slider.md) / [code](/src/04_slider.html) / [demo](https://raw.githack.com/MorganConrad/ptwd-slider/master/src/04_slider.html)
 
-### Full Interactivity [docs](/docs/05_slider.md) / [code](/src/05_slider.html) / [demo](https://htmlpreview.github.io/?https://github.com/MorganConrad/ptwd-slider/blob/master/src/05_slider.html)
+### Full Interactivity [docs](/docs/05_slider.md) / [code](/src/05_slider.html) / [demo](https://raw.githack.com/MorganConrad/ptwd-slider/master/src/05_slider.html)
 
 ## More Information
 
