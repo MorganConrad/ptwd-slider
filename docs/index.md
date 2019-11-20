@@ -4,7 +4,7 @@ Web Component demo for Port Townsend Web Developers group
 ## Basics
 
 ### [Intro to Web Components](01_webcomponent.html) / [code](https://github.com/MorganConrad/ptwd-slider/blob/master/src/01_unknown.html) / [demo](https://htmlpreview.github.io/?https://github.com/MorganConrad/ptwd-slider/blob/master/src/01_unknown.html)
-)
+
 
 ## Demos
 
@@ -16,19 +16,20 @@ Web Component demo for Port Townsend Web Developers group
 
 ### Full Interactivity [docs](05_slider.html) / [code](https://github.com/MorganConrad/ptwd-slider/blob/master/src/05_slider.html) / [demo](https://htmlpreview.github.io/?https://github.com/MorganConrad/ptwd-slider/blob/master/src/05_slider.html)
 
+
 ## More Slides
 
-### [Organization](06_organization.html)
+### [Organization](06_organization.md)
 
-### [Utilities](07_utilities.html)
+### [Utilities](07_utilities.md)
 
-### [Advanced Topics](08_advanced.html)
+### [Advanced Topics](08_advanced.md)
 
-### [Testing](09_testing.html)
+### [Testing](09_testing.md)
 
-### [Events and Dataflow](10_events_dataflow.html)
+### [Events and Dataflow](10_events_dataflow.md)
 
-### [More Information](11_moreinfo.html)
+### [More Information](11_moreinfo.md)
 
 
 ## Credits
